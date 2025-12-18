@@ -172,7 +172,7 @@ export default function Page() {
         <div className="py-16 space-y-4 w-full max-w-5xl text-center">
           <div className="flex flex-col-reverse md:flex-row items-center justify-between">
             <div className="space-y-6 text-center md:text-left">
-              <div className="inline-block bg-orange-100 text-orange-700 px-4 py-2 rounded-lg font-medium">
+              <div className="inline-block bg-orange-100 text-orange-700 px-4 py-2 rounded-lg font-medium m-4">
                 👋 Hello
               </div>
               <h1 className="text-4xl md:text-5xl font-extrabold">
