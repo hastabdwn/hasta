@@ -135,7 +135,7 @@ export default function Page() {
     <main>
       {/* ================= Navbar ================= */}
       <header className="fixed top-0 left-0 right-0 z-50 backdrop-blur-md border-b border-white/20 dark:border-white/10 bg-white/70 dark:bg-[#282828]/70">
-        <nav className="max-w-5xl mx-auto flex items-center justify-between p-2">
+        <nav className="flex items-center justify-between p-2">
           <div className="flex items-center gap-4">
             <Link href="/" className="text-xl font-bold">
               Hasta
