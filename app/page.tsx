@@ -177,7 +177,7 @@ export default function Page() {
               </div>
               <h1 className="text-4xl md:text-5xl font-extrabold">
                 I&apos;m Hasta <br />
-                <span className="text-[#ff4040]">Frontend Developer</span>          
+                <span className="text-[#ff4040]">Data Analyst</span>          
               </h1>
               <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
                 <Link
